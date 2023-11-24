@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aeromodelingnitkkr.github.io/aeronitkkr/",
   "name": "AeroModelling NITKKR",
+  "homepage": "https://aeromodelingnitkkr.github.io/aeronitkkr/",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -39,5 +39,8 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6",
     "vite": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
